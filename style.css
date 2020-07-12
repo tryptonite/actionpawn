@@ -1,0 +1,95 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 100%; }
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+    background-color: #000000;
+    color:#fff;
+    font-family: 'Roboto', 'sans-serif'; }
+
+.header{
+    margin:3rem;
+    margin-top: 0;
+}
+
+.main-header{
+    text-align: center;
+    margin:1rem;
+    font-size:4rem;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-two{
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.header-img{
+    text-align: center;
+}
+
+.items{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.covid-header{
+    color:red;
+    font-size:1.4rem;
+    font-family:'Montserrat', 'sans-serif';
+}
+
+.sell-items{
+    padding:2rem;
+}
+
+.sell-items p{
+    font-size: 1.25rem;
+}
+
+.sell{
+    padding:1.5rem;
+}
+
+.footer{
+    text-align: center;
+    font-weight: bold;
+    line-height: 1.75rem;
+}
+
+.footer p{
+    font-size: 1.25rem;
+}
+
+.location h2{
+    text-transform: uppercase;
+    font-size:1.8rem;
+    margin-bottom: 1rem;
+}
+
+.hours h3{
+    font-size:1.5rem;
+    text-transform: uppercase;
+}
+
+.flag{
+    padding-top:2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.music{
+    text-align: center;
+    margin:1rem;
+}
