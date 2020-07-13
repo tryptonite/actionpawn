@@ -5,9 +5,27 @@
     }
 }
 
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 480px){
+    .header{
+        font-size:65%;
+    }
+    .main-header{
+        font-size:2rem;
+    }
     .actionimg{
         width: 100%;
         height: auto;
+    }
+    .covid-header{
+        font-size: 85%;
+    }
+    .sell-items p{
+        font-size: 90%;
+    }
+    .footer p{
+        font-size: 90%;
+    }
+    .email{
+        font-size: 1rem;
     }
 }

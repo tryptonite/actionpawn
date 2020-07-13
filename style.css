@@ -21,11 +21,6 @@ body {
     margin:2.5rem;
 }
 
-.actionimg{
-    width:60%;
-    height:auto;
-}
-
 .main-header{
     text-align: center;
     margin:1rem;
@@ -41,6 +36,11 @@ body {
 
 .header-img{
     text-align: center;
+}
+
+.actionimg{
+    width:60%;
+    height:auto;
 }
 
 .items{
