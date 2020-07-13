@@ -21,6 +21,11 @@ body {
     margin:2.5rem;
 }
 
+.actionimg{
+    width:60%;
+    height:auto;
+}
+
 .main-header{
     text-align: center;
     margin:1rem;
