@@ -18,8 +18,7 @@ body {
     font-family: 'Roboto', 'sans-serif'; }
 
 .header{
-    margin:3rem;
-    margin-top: 0;
+    margin:2.5rem;
 }
 
 .main-header{
@@ -44,14 +43,20 @@ body {
     text-transform: uppercase;
 }
 
+.music{
+    text-align: center;
+}
+
 .covid-header{
-    color:red;
+    color:rgb(240, 0, 0);
     font-size:1.4rem;
     font-family:'Montserrat', 'sans-serif';
+    margin-top: 1.5rem;
 }
 
 .sell-items{
     padding:2rem;
+    padding-top: 1rem;
 }
 
 .sell-items p{
@@ -85,16 +90,12 @@ body {
 
 .email{
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 1.5rem;
+    font-size: 1.25rem;
 }
 
 .flag{
     padding-top:2rem;
     padding-bottom: 2rem;
     text-align: center;
-}
-
-.music{
-    text-align: center;
-    margin:1rem;
 }
