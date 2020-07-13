@@ -83,6 +83,11 @@ body {
     text-transform: uppercase;
 }
 
+.email{
+    text-align: center;
+    margin-top: 2rem;
+}
+
 .flag{
     padding-top:2rem;
     padding-bottom: 2rem;
